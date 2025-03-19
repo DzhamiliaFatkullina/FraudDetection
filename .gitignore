@@ -1,0 +1,5 @@
+# Ignore the data folder
+data/
+
+# Ignore the specific zip file
+ieee-fraud-detection.zip
