@@ -9,8 +9,8 @@ This project focuses on detecting fraudulent transactions using machine learning
 - **Optimization**: GA & PSO for hyperparameter tuning.
 
 ## Resources
-For a detailed methodology, dataset information, and results, refer to the full report:  
-[Transaction Fraud Detection Report](Transaction%20Fraud%20Detection.pdf)
+For a detailed methodology, dataset information, and results, refer to the full proposal:  
+[Transaction Fraud Detection Proposal](Transaction%20Fraud%20Detection.pdf)
 
 ## Contributors
 - Rostislav Kirsanov  
