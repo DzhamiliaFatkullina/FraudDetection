@@ -12,8 +12,7 @@ This project focuses on detecting fraudulent transactions using machine learning
 For a detailed methodology, dataset information, and results, refer to the full proposal:  
 [Transaction Fraud Detection Proposal](Transaction%20Fraud%20Detection.pdf)
 
-## Contributors
-- Rostislav Kirsanov  
+## Contributors 
 - Dzhamilia Fatkullina  
 - Sofia Pushkareva  
 
