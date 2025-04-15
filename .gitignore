@@ -3,3 +3,6 @@ data/
 
 # Ignore the specific zip file
 ieee-fraud-detection.zip
+
+# Exclude large joblib files
+*.joblib
